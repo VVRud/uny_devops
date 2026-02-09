@@ -57,4 +57,4 @@ State is stored locally and ignored by git via `.gitignore`.
 
 ## Example output
 
-![Example output](../assets/example_output.png)
+![Example output](assets/example_output.png)
